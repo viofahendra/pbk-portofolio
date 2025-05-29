@@ -21,12 +21,13 @@
 
 <script setup>
 import { ref } from 'vue';
+import project1 from "../../assets/project1.jpg"
 
 const projects = ref([
   {
     title: "HTML CSS",
     description: "Landing Page",
-    image: "../../src/assets/project1.jpg",
+    image: project1,
   },
   {
     title: "HTML CSS",
