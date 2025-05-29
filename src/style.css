@@ -1,0 +1,26 @@
+@import 'tailwindcss';
+
+.bg-primary{
+  background-color:#E7EFC7;
+}
+
+.bg-secondary{
+  background-color: #3B3B1A;
+}
+
+.text-primary{
+  color:#8A784E;
+}
+
+.text-secondary{
+  color: #3B3B1A;
+}
+
+.border-primary{
+    color: #3B3B1A;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
