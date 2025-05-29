@@ -26,7 +26,7 @@ const projects = ref([
   {
     title: "HTML CSS",
     description: "Landing Page",
-    image: "../../src/assets/IMG-20250529-WA0010.jpg",
+    image: "../../src/assets/project1.jpg",
   },
   {
     title: "HTML CSS",
