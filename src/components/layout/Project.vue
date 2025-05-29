@@ -19,11 +19,11 @@
 <script setup>
 import { ref } from 'vue';
 import project1 from "../../assets/project1.jpg"
-import project2 from "../../src/assets/IMG-20250529-WA0009.jpg"
-import project3 from "../../src/assets/IMG-20250529-WA0008.jpg"
-import project4 from "../../src/assets/IMG-20250529-WA0007.jpg"
-import project5 from "../../src/assets/IMG-20250529-WA0005.jpg"
-import project6 from "../../src/assets/IMG-20250529-WA0006.jpg"
+import project2 from "../../assets/IMG-20250529-WA0009.jpg"
+import project3 from "../../assets/IMG-20250529-WA0008.jpg"
+import project4 from "../../assets/IMG-20250529-WA0007.jpg"
+import project5 from "../../assets/IMG-20250529-WA0005.jpg"
+import project6 from "../../assets/IMG-20250529-WA0006.jpg"
 
 const projects = ref([
     {
