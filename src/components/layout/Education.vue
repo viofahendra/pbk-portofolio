@@ -19,15 +19,15 @@ import { ref } from 'vue';
 
 const education = ref([
   {
-    school: "Universitas Indonesia",
+    school: "Universitas Islam Riau",
     degree: "Bachelor of Computer Science",
-    period: "2017 - 2021",
+    period: "2023 - Now",
     description: "Focused on software engineering, data structures, and algorithms."
   },
   {
-    school: "SMAN 1 Jakarta",
+    school: "SMAN 1 TANAH PUTIH TANJUNG MELAWAN",
     degree: "High School Diploma - Science Major",
-    period: "2014 - 2017",
+    period: "2020 - 2023",
     description: "Concentration in mathematics and physics."
   },
 ]);
